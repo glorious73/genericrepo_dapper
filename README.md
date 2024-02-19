@@ -42,9 +42,7 @@ TABLESPACE pg_default;
 
 ALTER TABLE IF EXISTS public.categories
     OWNER to postgres;
-```
 
-```sql
 -- Table: public.products
 
 -- DROP TABLE IF EXISTS public.products;
@@ -75,6 +73,7 @@ ALTER TABLE IF EXISTS public.products
 2. Open the project containing folder in Visual Studio or JetBrains Rider.
 3. Build the project.
 4. Run.
+
 ## Article
 The article can be found here:
 [https://dev.to/amjadmh73/dapper-generic-repository-5fil](https://dev.to/amjadmh73/dapper-generic-repository-5fil)
