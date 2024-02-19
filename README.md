@@ -77,4 +77,4 @@ ALTER TABLE IF EXISTS public.products
 4. Run.
 ## Article
 The article can be found here:
-[https://dev.to/amjadmh73/dapper-generic-repository-135m-temp-slug-5889310](https://dev.to/amjadmh73/dapper-generic-repository-135m-temp-slug-5889310)
+[https://dev.to/amjadmh73/dapper-generic-repository-5fil](https://dev.to/amjadmh73/dapper-generic-repository-5fil)
