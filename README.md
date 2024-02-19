@@ -5,7 +5,7 @@ This is the source code for the blog post explaining how to use the Generic Repo
 - Technology: ASP.NET 8, Postgres 16, and Dapper.
 ## How To Run
 ### Database
-Open up PG Admin's SQL Query editor and create the database and its tables. In this project, the database is called `GenericRepoDapperDb`. The queries to do that can be found below:
+Open up PG Admin's SQL Query editor and create the database and its tables. In this project, the database is called `GenericRepoDapperDb`. The queries can be found below:
 #### Database
 ```sql
 -- Database: GenericRepoDapperDb
